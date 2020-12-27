@@ -1,4 +1,32 @@
 * {
     font-family: Verdana, sans-serif;
+    background-color: black;
+    color: white;
     text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2, h3 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+body p {
+    color: gray;
+    font-size: 21px;
+}
+
+footer {
+    float: right;
 }
